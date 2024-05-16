@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d0/dbd/classutils_1_1datetime_1_1TimePointTzBase.html" title=" " alt="" coords="5,27,196,67"/>
+<area shape="rect" id="Node000001" href="$d3/dd7/classutils_1_1datetime_1_1TimePointTz.html" title="Timepoint with timezone parsed in kRfc3339Format." alt="" coords="244,5,451,31"/>
+<area shape="poly" id="edge802_Node000000_Node000001" title=" " alt="" coords="209,32,244,28,244,33,210,37"/>
+<area shape="rect" id="Node000002" href="$d7/d35/classutils_1_1datetime_1_1TimePointTzIsoBasic.html" title="Timepoint with timezone parsed in kDefaultFormat." alt="" coords="252,55,443,95"/>
+<area shape="poly" id="edge803_Node000000_Node000002" title=" " alt="" coords="210,57,252,62,252,67,209,62"/>
+</map>

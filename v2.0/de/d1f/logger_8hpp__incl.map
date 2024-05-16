@@ -1,0 +1,21 @@
+<map id="userver/logging/logger.hpp" name="userver/logging/logger.hpp">
+<area shape="rect" id="Node000001" title="Logger definitions and helpers." alt="" coords="229,5,424,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,152,89,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,27,165,34,101,44,47,60,27,69,14,80,8,94,11,109,31,140,26,143,6,111,3,94,10,77,24,65,45,55,99,39,164,28,229,22"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="443,152,501,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="362,28,402,47,439,77,458,107,469,138,464,139,453,109,435,80,399,52,360,33"/>
+<area shape="rect" id="Node000004" href="$d4/d0a/format_8hpp.html" title="Log formats." alt="" coords="227,79,426,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,31,329,65,324,65,324,31"/>
+<area shape="rect" id="Node000006" href="$db/dfb/universal_2include_2userver_2logging_2fwd_8hpp.html" title="Forward declarations for logging types." alt="" coords="24,79,203,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="293,33,162,77,160,72,292,28"/>
+<area shape="rect" id="Node000007" href="$d5/d37/level_8hpp.html" title="Log levels." alt="" coords="500,79,687,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="370,28,537,72,536,78,369,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="278,152,375,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="329,104,329,138,324,138,324,104"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="105,106,72,143,68,140,101,103"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="575,106,505,147,502,143,572,102"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="644,152,711,177"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="609,102,655,141,651,145,605,106"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="545,152,620,177"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="594,105,589,139,584,138,589,104"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="clients::http::ClientSettings" name="clients::http::ClientSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,197,363,223"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="31,102,118,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,137,106,155,125,171,154,185,184,195,183,200,152,190,123,176,103,159,87,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,144,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,59,77,102,72,102,72,59"/>
+<area shape="rect" id="Node000004" href="$dc/d68/structclients_1_1http_1_1DeadlinePropagationConfig.html" title=" " alt="" coords="143,95,385,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,149,267,197,261,197,261,149"/>
+<area shape="rect" id="Node000005" href="$db/d3d/classtracing_1_1TracingManagerBase.html" title="Base class for propagating trace context information in headers." alt="" coords="409,102,620,127"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="488,137,454,157,416,176,374,190,332,200,330,195,372,185,414,171,452,153,485,133"/>
+</map>

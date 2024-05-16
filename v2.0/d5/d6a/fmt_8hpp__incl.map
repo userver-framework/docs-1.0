@@ -1,0 +1,38 @@
+<map id="userver/utils/statistics/fmt.hpp" name="userver/utils/statistics/fmt.hpp">
+<area shape="rect" id="Node000001" title="fmt formatters for various statistics types" alt="" coords="479,5,646,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="79,189,147,214"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="480,39,380,59,328,75,277,96,251,114,227,135,148,184,145,180,224,131,248,110,275,91,326,70,379,54,479,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="722,101,827,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="610,43,735,93,733,98,608,48"/>
+<area shape="rect" id="Node000004" href="$d3/d6c/fmt__compat_8hpp_source.html" title=" " alt="" coords="851,101,1066,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="647,42,893,95,892,100,646,47"/>
+<area shape="rect" id="Node000006" href="$da/df1/overloaded_8hpp.html" title="Utility to define std::variant visitors in a simple way." alt="" coords="5,101,213,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="479,45,184,101,183,95,478,40"/>
+<area shape="rect" id="Node000007" href="$d1/d0e/labels_8hpp.html" title="Owning and non owning labels representations." alt="" coords="289,93,455,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="522,48,427,90,425,85,520,43"/>
+<area shape="rect" id="Node000011" href="$da/d8a/metric__value_8hpp.html" title="The value of a metric." alt="" coords="479,93,646,133"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="565,46,565,79,560,79,560,46"/>
+<area shape="rect" id="Node000015" href="$d6/dab/rate_8hpp.html" title=" " alt="" coords="722,181,889,221"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="591,43,659,91,712,131,768,171,765,175,709,135,656,95,588,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="914,189,1003,214"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="961,126,961,174,956,174,956,126"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="113,126,115,175,109,175,107,126"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="172,189,231,214"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="336,136,237,185,235,180,333,131"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="255,189,353,214"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="359,135,324,179,320,176,355,132"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="395,269,487,295"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="382,133,434,256,429,258,377,135"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="479,134,467,136,380,148,313,155,245,164,161,184,153,186,151,181,159,179,244,159,312,150,380,143,466,131,478,129"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="525,136,495,156,469,183,452,219,445,256,440,255,447,218,464,180,491,152,522,131"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="651,269,717,295"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="603,131,633,152,660,180,677,218,685,255,679,256,672,220,655,183,630,156,600,136"/>
+<area shape="rect" id="Node000013" href="$d5/de6/histogram__view_8hpp.html" title="The non&#45;owning reader API for &quot;histogram&quot; metrics." alt="" coords="479,181,646,221"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="565,134,565,167,560,167,560,134"/>
+<area shape="poly" id="edge19_Node000011_Node000015" title=" " alt="" coords="617,131,740,174,739,179,615,136"/>
+<area shape="poly" id="edge18_Node000013_Node000010" title=" " alt="" coords="535,224,472,264,469,260,532,219"/>
+<area shape="poly" id="edge17_Node000013_Node000012" title=" " alt="" coords="593,219,656,260,653,264,591,224"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="527,269,598,295"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="565,222,565,255,560,255,560,222"/>
+<area shape="poly" id="edge20_Node000015_Node000012" title=" " alt="" coords="777,224,715,264,712,260,775,219"/>
+</map>

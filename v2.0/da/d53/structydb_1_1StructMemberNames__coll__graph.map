@@ -1,0 +1,9 @@
+<map id="ydb::StructMemberNames&lt; N &gt;" name="ydb::StructMemberNames&lt; N &gt;">
+<area shape="rect" id="Node000001" title="Specifies C++ to YDB struct member names mapping. It&#39;s enough to only specify the names that are diff..." alt="" coords="5,285,237,311"/>
+<area shape="rect" id="Node000002" href="$db/ddf/structydb_1_1CustomMemberName.html" title=" " alt="" coords="23,197,220,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,237,124,285,119,285,119,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="59,95,184,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,134,124,197,119,197,119,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,205,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,59,124,94,119,94,119,59"/>
+</map>

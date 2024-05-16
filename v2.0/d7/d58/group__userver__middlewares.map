@@ -1,0 +1,5 @@
+<map id="Http server middlewares" name="Http server middlewares">
+<area shape="rect" id="Node000003" href="$da/d0c/group__userver__base__classes.html" title="Base classes that simplify implementation of functionality." alt="" coords="581,110,689,135"/>
+<area shape="rect" id="Node000002" href="$dd/d1c/group__userver__components.html" title="Components that could be used with utils::DaemonMain like functions; see Component system for an intr..." alt="" coords="5,110,109,135"/>
+<area shape="rect" id="Node000001" title="Base classes for implementing and configuring http server middlewares." alt="" coords="159,110,341,135"/>
+</map>

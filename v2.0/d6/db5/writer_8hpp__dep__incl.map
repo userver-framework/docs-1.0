@@ -1,0 +1,113 @@
+<map id="userver/utils/statistics/writer.hpp" name="userver/utils/statistics/writer.hpp">
+<area shape="rect" id="Node000001" title="Class for writing metrics." alt="" coords="1771,5,1938,45"/>
+<area shape="rect" id="Node000002" href="$da/d43/lru__cache__statistics_8hpp_source.html" title=" " alt="" coords="261,93,440,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1758,35,441,110,440,104,1758,30"/>
+<area shape="rect" id="Node000006" href="$df/dd7/producer_8hpp_source.html" title=" " alt="" coords="775,101,974,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1758,38,974,106,974,101,1757,32"/>
+<area shape="rect" id="Node000008" href="$dc/d2e/core_2include_2userver_2logging_2component_8hpp.html" title="Logging component" alt="" coords="1154,101,1382,126"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1758,43,1394,96,1345,103,1344,98,1393,91,1758,38"/>
+<area shape="rect" id="Node000009" href="$da/de8/clickhouse_2include_2userver_2storages_2clickhouse_2cluster_8hpp.html" title="Interface for executing queries on a cluster of ClickHouse servers." alt="" coords="718,181,922,221"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1759,51,1697,70,1637,96,1622,106,1612,116,1602,127,1585,136,1524,152,1446,163,1262,173,1077,177,934,184,923,185,922,180,933,179,1077,171,1262,168,1445,158,1523,147,1583,131,1598,122,1609,113,1619,102,1635,91,1696,65,1757,46"/>
+<area shape="rect" id="Node000011" href="$d3/de4/clickhouse_2include_2userver_2storages_2clickhouse_2impl_2pool_8hpp_source.html" title=" " alt="" coords="1649,93,1853,133"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1823,56,1775,95,1772,91,1819,52"/>
+<area shape="rect" id="Node000012" href="$d0/d3d/mysql_2include_2userver_2storages_2mysql_2cluster_8hpp.html" title="Client interface for a cluster of MySQL servers. Usually retrieved from components::MySQL." alt="" coords="2739,93,2914,133"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1952,33,2740,102,2739,107,1952,38"/>
+<area shape="rect" id="Node000014" href="$d1/db6/postgresql_2include_2userver_2storages_2postgres_2statistics_8hpp.html" title="Statistics helpers." alt="" coords="3337,181,3527,221"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1952,25,2133,30,2376,41,2649,61,2926,91,3046,110,3165,133,3360,179,3359,184,3164,139,3045,115,2925,96,2649,66,2375,47,2133,36,1952,31"/>
+<area shape="rect" id="Node000018" href="$d7/dec/rabbitmq_2include_2userver_2urabbitmq_2client_8hpp.html" title="Interface for communicating with a RabbitMQ cluster." alt="" coords="2203,101,2413,126"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1952,42,2248,98,2247,103,1951,48"/>
+<area shape="rect" id="Node000020" href="$d3/d9b/metric__tag__impl_8hpp_source.html" title=" " alt="" coords="1406,93,1573,133"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="1762,51,1570,96,1569,91,1761,46"/>
+<area shape="rect" id="Node000024" href="$dd/d80/min__max__avg_8hpp.html" title="Class for concurrent safe calculation of minimum, maximum and average over series of values." alt="" coords="3217,93,3383,133"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="1952,27,2453,49,2785,67,3122,91,3217,100,3216,105,3121,96,2784,73,2453,54,1952,33"/>
+<area shape="rect" id="Node000025" href="$de/d4a/percentile_8hpp.html" title="Class allows easy calculation of percentiles." alt="" coords="3445,93,3611,133"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="1952,25,2203,30,2561,40,2974,60,3395,91,3445,96,3444,102,3394,96,2974,65,2560,46,2203,35,1952,30"/>
+<area shape="rect" id="Node000050" href="$d4/d9a/utils_2statistics_2storage_8hpp.html" title=" " alt="" coords="1877,93,2043,133"/>
+<area shape="poly" id="edge48_Node000001_Node000050" title=" " alt="" coords="1890,52,1938,91,1935,95,1887,56"/>
+<area shape="rect" id="Node000003" href="$d8/de1/expirable__lru__cache_8hpp.html" title="Class for expirable LRU cache. Use cache::LruMap for not expirable LRU Cache." alt="" coords="105,181,284,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,142,230,184,228,179,303,138"/>
+<area shape="rect" id="Node000004" href="$d9/daf/lru__cache__component__base_8hpp.html" title="Base class for LRU&#45;cache components." alt="" coords="5,277,184,317"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,233,117,279,113,275,163,229"/>
+<area shape="rect" id="Node000005" href="$db/df0/standalone__checker_8hpp.html" title="Class for digest authentication checker. Implements a stand&#45;alone digest&#45;authentication logic." alt="" coords="208,269,384,324"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="227,229,269,267,266,271,224,233"/>
+<area shape="rect" id="Node000007" href="$d1/dd1/producer__component_8hpp_source.html" title=" " alt="" coords="308,181,503,221"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="799,131,503,185,502,180,798,126"/>
+<area shape="rect" id="Node000010" href="$d7/d29/clickhouse_8hpp.html" title=" " alt="" coords="819,284,1051,309"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="856,228,922,282,919,286,852,232"/>
+<area shape="poly" id="edge11_Node000011_Node000009" title=" " alt="" coords="1635,135,1630,136,1434,153,1281,159,1129,166,934,184,923,185,922,180,933,179,1128,161,1281,154,1434,148,1629,131,1634,130"/>
+<area shape="rect" id="Node000013" href="$dd/db6/mysql_8hpp.html" title=" " alt="" coords="3109,189,3312,214"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="2925,134,3160,186,3159,191,2924,139"/>
+<area shape="rect" id="Node000015" href="$de/dd3/postgresql_2include_2userver_2storages_2postgres_2cluster_8hpp.html" title="Interface for executing queries on a cluster of PostgreSQL servers." alt="" coords="3029,277,3219,317"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="3358,228,3187,279,3185,274,3356,223"/>
+<area shape="rect" id="Node000016" href="$dc/df7/base__postgres__cache_8hpp.html" title="Caching component for PostgreSQL. See Caching Component for PostgreSQL." alt="" coords="2846,372,3005,412"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="3073,325,2967,374,2964,370,3070,320"/>
+<area shape="rect" id="Node000017" href="$df/d02/postgres_8hpp.html" title=" " alt="" coords="3029,372,3219,412"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="3127,330,3127,372,3121,372,3121,330"/>
+<area shape="rect" id="Node000019" href="$d7/de4/rabbitmq_8hpp.html" title=" " alt="" coords="2053,284,2216,309"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="2427,119,2805,145,2969,161,3022,170,3047,179,3055,190,3057,201,3055,212,3047,223,3030,234,3003,244,2923,261,2815,273,2690,283,2428,294,2216,298,2216,292,2428,288,2690,277,2814,268,2922,255,3002,239,3028,230,3043,219,3050,210,3052,201,3050,192,3044,183,3021,175,2968,167,2805,150,2427,124"/>
+<area shape="rect" id="Node000021" href="$d8/d3e/metric__tag_8hpp_source.html" title=" " alt="" coords="527,181,694,221"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="1393,136,1199,154,1047,160,896,165,706,184,695,186,694,180,705,179,896,160,1047,154,1198,149,1392,131"/>
+<area shape="rect" id="Node000022" href="$d7/d5d/metrics__storage_8hpp_source.html" title=" " alt="" coords="577,277,743,317"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="629,232,652,275,648,278,625,235"/>
+<area shape="rect" id="Node000023" href="$d6/d3a/core_2include_2userver_2components_2statistics__storage_8hpp.html" title="Component that keeps a utils::statistics::Storage storage for metrics." alt="" coords="815,372,985,412"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="722,319,852,369,851,374,720,324"/>
+<area shape="poly" id="edge25_Node000024_Node000014" title=" " alt="" coords="3342,139,3404,179,3401,183,3339,143"/>
+<area shape="poly" id="edge27_Node000025_Node000014" title=" " alt="" coords="3498,145,3455,183,3451,179,3495,141"/>
+<area shape="rect" id="Node000026" href="$d6/d93/grpc_2include_2userver_2ugrpc_2impl_2statistics_8hpp_source.html" title=" " alt="" coords="3552,181,3696,221"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="3561,141,3605,179,3601,183,3558,145"/>
+<area shape="rect" id="Node000049" href="$d8/d7b/percentile__format__json_8hpp_source.html" title=" " alt="" coords="3721,181,3925,221"/>
+<area shape="poly" id="edge47_Node000025_Node000049" title=" " alt="" coords="3606,135,3759,179,3757,184,3605,140"/>
+<area shape="rect" id="Node000027" href="$d2/d7b/client_2impl_2call__params_8hpp_source.html" title=" " alt="" coords="3243,372,3410,412"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="3539,225,3354,272,3339,294,3331,322,3328,372,3322,372,3325,321,3334,292,3350,267,3538,220"/>
+<area shape="rect" id="Node000030" href="$d8/d5f/client_2impl_2codegen__declarations_8hpp_source.html" title=" " alt="" coords="3508,651,3737,691"/>
+<area shape="poly" id="edge39_Node000026_Node000030" title=" " alt="" coords="3710,219,3784,229,3855,234,3923,238,3983,246,4035,261,4057,273,4075,288,4090,307,4101,330,4108,358,4111,391,4111,489,4110,525,4105,554,4092,580,4067,605,4043,619,4010,631,3926,649,3830,661,3738,668,3737,662,3830,655,3925,644,4009,626,4041,614,4064,601,4088,577,4100,552,4105,524,4105,489,4105,391,4103,358,4096,332,4086,309,4072,291,4054,277,4033,266,3982,251,3922,243,3855,239,3783,234,3710,224"/>
+<area shape="rect" id="Node000038" href="$d9/d5b/client__data_8hpp_source.html" title=" " alt="" coords="3545,277,3703,317"/>
+<area shape="poly" id="edge34_Node000026_Node000038" title=" " alt="" coords="3627,235,3627,277,3621,277,3621,235"/>
+<area shape="rect" id="Node000040" href="$d8/dc6/grpc_2include_2userver_2ugrpc_2impl_2statistics__storage_8hpp_source.html" title=" " alt="" coords="3727,277,3897,317"/>
+<area shape="poly" id="edge40_Node000026_Node000040" title=" " alt="" coords="3675,225,3775,274,3773,279,3673,230"/>
+<area shape="rect" id="Node000043" href="$db/d93/service__worker__impl_8hpp_source.html" title=" " alt="" coords="3867,460,4024,515"/>
+<area shape="poly" id="edge45_Node000026_Node000043" title=" " alt="" coords="3710,219,3909,267,3951,287,3984,306,4011,331,4034,371,4040,392,4034,413,4016,440,3992,462,3988,458,4012,437,4030,411,4035,392,4030,373,4007,335,3981,310,3949,292,3907,272,3709,224"/>
+<area shape="rect" id="Node000046" href="$d4/d79/grpc_2include_2userver_2ugrpc_2server_2server_8hpp.html" title="Manages the gRPC server." alt="" coords="3365,277,3521,317"/>
+<area shape="poly" id="edge46_Node000026_Node000046" title=" " alt="" coords="3577,230,3481,279,3478,274,3574,225"/>
+<area shape="rect" id="Node000028" href="$d7/d8b/client_2impl_2async__methods_8hpp_source.html" title=" " alt="" coords="3232,467,3421,507"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="3329,426,3329,467,3324,467,3324,426"/>
+<area shape="rect" id="Node000029" href="$db/df8/client_2rpc_8hpp.html" title="Classes representing an outgoing RPC." alt="" coords="3383,563,3534,603"/>
+<area shape="poly" id="edge33_Node000027_Node000029" title=" " alt="" coords="3387,417,3413,435,3436,458,3449,485,3457,513,3462,562,3456,563,3452,514,3444,486,3431,462,3410,439,3384,421"/>
+<area shape="poly" id="edge31_Node000028_Node000029" title=" " alt="" coords="3366,513,3434,560,3430,565,3363,518"/>
+<area shape="poly" id="edge32_Node000029_Node000030" title=" " alt="" coords="3508,607,3588,648,3586,653,3506,611"/>
+<area shape="poly" id="edge37_Node000038_Node000027" title=" " alt="" coords="3552,323,3388,374,3386,369,3550,318"/>
+<area shape="poly" id="edge38_Node000038_Node000030" title=" " alt="" coords="3627,330,3625,650,3620,650,3621,330"/>
+<area shape="rect" id="Node000039" href="$d5/d0c/channels_8hpp.html" title="Utilities for managing gRPC connections." alt="" coords="3434,372,3585,412"/>
+<area shape="poly" id="edge35_Node000038_Node000039" title=" " alt="" coords="3592,327,3534,374,3531,370,3589,323"/>
+<area shape="rect" id="Node000032" href="$d0/d98/client__factory_8hpp.html" title="Creates generated gRPC clients. Has a minimal built&#45;in channel cache: as long as a channel to the sam..." alt="" coords="3661,372,3811,412"/>
+<area shape="poly" id="edge36_Node000038_Node000032" title=" " alt="" coords="3659,324,3715,370,3712,374,3656,328"/>
+<area shape="poly" id="edge41_Node000040_Node000032" title=" " alt="" coords="3790,329,3753,374,3749,370,3786,326"/>
+<area shape="rect" id="Node000041" href="$d9/dfa/service__worker_8hpp_source.html" title=" " alt="" coords="3836,372,4020,412"/>
+<area shape="poly" id="edge42_Node000040_Node000041" title=" " alt="" coords="3848,323,3906,370,3903,374,3844,327"/>
+<area shape="poly" id="edge43_Node000041_Node000043" title=" " alt="" coords="3937,425,3943,459,3938,460,3931,426"/>
+<area shape="rect" id="Node000044" href="$d1/dac/server_2impl_2codegen__definitions_8hpp_source.html" title=" " alt="" coords="3837,563,4054,603"/>
+<area shape="poly" id="edge44_Node000043_Node000044" title=" " alt="" coords="3948,528,3948,563,3943,563,3943,528"/>
+<area shape="poly" id="edge49_Node000050_Node000023" title=" " alt="" coords="1863,136,1711,143,1525,145,1432,148,1346,155,1271,166,1213,184,1178,210,1138,252,1098,296,1064,326,1013,354,962,374,960,369,1011,349,1061,322,1094,292,1134,248,1175,206,1211,179,1270,161,1345,149,1432,143,1525,140,1710,137,1863,130"/>
+<area shape="rect" id="Node000051" href="$d2/d2e/clickhouse_2include_2userver_2storages_2clickhouse_2component_8hpp.html" title="ClickHouse client component." alt="" coords="946,181,1150,221"/>
+<area shape="poly" id="edge50_Node000050_Node000051" title=" " alt="" coords="1863,136,1667,155,1514,162,1362,168,1170,184,1151,186,1150,181,1169,179,1362,162,1514,157,1667,150,1863,131"/>
+<area shape="rect" id="Node000052" href="$d5/df6/rabbitmq_2include_2userver_2urabbitmq_2component_8hpp.html" title="RabbitMQ (AMQP 0.9.1) client component." alt="" coords="1225,189,1471,214"/>
+<area shape="poly" id="edge52_Node000050_Node000052" title=" " alt="" coords="1863,136,1671,162,1483,184,1429,191,1428,186,1482,179,1671,157,1862,131"/>
+<area shape="rect" id="Node000053" href="$dd/da6/statistics_2graphite_8hpp.html" title="Statistics output in Graphite format." alt="" coords="2677,181,2843,221"/>
+<area shape="poly" id="edge54_Node000050_Node000053" title=" " alt="" coords="2057,120,2380,148,2664,179,2677,181,2676,186,2664,184,2379,154,2057,125"/>
+<area shape="rect" id="Node000054" href="$d1/dc7/core_2include_2userver_2utils_2statistics_2json_8hpp.html" title="Statistics output in JSON format." alt="" coords="2867,181,3034,221"/>
+<area shape="poly" id="edge55_Node000050_Node000054" title=" " alt="" coords="2058,120,2191,131,2378,142,2523,149,2669,158,2855,179,2867,180,2867,186,2854,184,2668,163,2523,154,2377,148,2190,136,2057,125"/>
+<area shape="rect" id="Node000055" href="$d7/d98/portability__info_8hpp.html" title="Portability reports." alt="" coords="1495,181,1662,221"/>
+<area shape="poly" id="edge56_Node000050_Node000055" title=" " alt="" coords="1864,139,1663,184,1662,179,1862,134"/>
+<area shape="rect" id="Node000056" href="$d0/d09/pretty__format_8hpp.html" title="Statistics output in human&#45;readable format." alt="" coords="1686,181,1853,221"/>
+<area shape="poly" id="edge57_Node000050_Node000056" title=" " alt="" coords="1907,141,1812,184,1810,179,1905,137"/>
+<area shape="rect" id="Node000057" href="$da/d92/prometheus_8hpp.html" title="Statistics output in Prometheus format." alt="" coords="1877,181,2043,221"/>
+<area shape="poly" id="edge58_Node000050_Node000057" title=" " alt="" coords="1963,147,1963,181,1957,181,1957,147"/>
+<area shape="rect" id="Node000058" href="$d4/d70/solomon_8hpp.html" title="Statistics output in Solomon format." alt="" coords="2067,181,2234,221"/>
+<area shape="poly" id="edge59_Node000050_Node000058" title=" " alt="" coords="2015,137,2110,179,2108,184,2013,141"/>
+<area shape="rect" id="Node000059" href="$d2/da2/testing_8hpp_source.html" title=" " alt="" coords="2258,181,2425,221"/>
+<area shape="poly" id="edge60_Node000050_Node000059" title=" " alt="" coords="2058,134,2258,179,2257,184,2056,139"/>
+<area shape="rect" id="Node000060" href="$d1/d84/ydb_2include_2userver_2ydb_2component_8hpp.html" title="YDB client component." alt="" coords="2449,189,2653,214"/>
+<area shape="poly" id="edge61_Node000050_Node000060" title=" " alt="" coords="2058,125,2436,179,2483,186,2482,191,2436,184,2057,130"/>
+<area shape="poly" id="edge51_Node000051_Node000010" title=" " alt="" coords="1016,232,951,286,947,282,1013,228"/>
+<area shape="poly" id="edge53_Node000052_Node000019" title=" " alt="" coords="1441,213,1483,219,2054,284,2053,289,1482,224,1441,219"/>
+</map>

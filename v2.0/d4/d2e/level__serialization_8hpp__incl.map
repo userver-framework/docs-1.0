@@ -1,0 +1,20 @@
+<map id="userver/logging/level_serialization.hpp" name="userver/logging/level_serialization.hpp">
+<area shape="rect" id="Node000001" title="Serialization of log levels." alt="" coords="229,5,388,45"/>
+<area shape="rect" id="Node000002" href="$dc/d7d/json__fwd_8hpp.html" title="Forward declarations of formats::json types, formats::parse::To and formats::serialize::To." alt="" coords="50,93,207,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,48,181,90,179,85,268,43"/>
+<area shape="rect" id="Node000005" href="$d5/d37/level_8hpp.html" title="Log levels." alt="" coords="430,101,617,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="357,43,483,93,481,98,355,48"/>
+<area shape="rect" id="Node000009" href="$dd/dd7/universal_2include_2userver_2yaml__config_2fwd_8hpp.html" title="Forward declarations of YamlConfig type and formats::parse::To." alt="" coords="231,93,386,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="311,46,311,79,306,79,306,46"/>
+<area shape="rect" id="Node000003" href="$d2/dc8/universal_2include_2userver_2formats_2parse_2to_8hpp.html" title="Helper for parsers." alt="" coords="215,181,381,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,131,250,173,248,178,165,136"/>
+<area shape="rect" id="Node000004" href="$d6/d8e/universal_2include_2userver_2formats_2serialize_2to_8hpp.html" title="Helper for serializers." alt="" coords="5,181,191,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="124,135,112,169,107,167,119,133"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="406,189,473,214"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="514,128,463,180,459,176,510,124"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="497,189,571,214"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="527,126,533,174,528,175,522,127"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="595,189,654,214"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="539,124,602,177,598,181,535,128"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="309,134,305,168,299,167,304,133"/>
+</map>

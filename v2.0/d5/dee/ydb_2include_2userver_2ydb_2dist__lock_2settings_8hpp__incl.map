@@ -1,0 +1,9 @@
+<map id="userver/ydb/dist_lock/settings.hpp" name="userver/ydb/dist_lock/settings.hpp">
+<area shape="rect" id="Node000001" title="A set of tweak&#45;able settings for ydb::DistLockWorker." alt="" coords="25,5,186,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,101,72,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,47,58,91,54,88,88,44"/>
+<area shape="rect" id="Node000003" href="$dd/dd7/universal_2include_2userver_2yaml__config_2fwd_8hpp.html" title="Forward declarations of YamlConfig type and formats::parse::To." alt="" coords="96,93,251,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,44,152,81,148,84,118,47"/>
+<area shape="rect" id="Node000004" href="$d2/dc8/universal_2include_2userver_2formats_2parse_2to_8hpp.html" title="Helper for parsers." alt="" coords="90,181,257,221"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,134,176,167,171,167,171,134"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="userver/storages/query.hpp" name="userver/storages/query.hpp">
+<area shape="rect" id="Node000001" title="Holds a query, its name and logging mode." alt="" coords="480,5,679,31"/>
+<area shape="rect" id="Node000002" href="$d3/d42/postgresql_2include_2userver_2storages_2postgres_2query_8hpp_source.html" title=" " alt="" coords="383,79,573,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="555,41,504,81,501,76,552,37"/>
+<area shape="rect" id="Node000010" href="$d8/dd6/ydb_2include_2userver_2ydb_2query_8hpp_source.html" title=" " alt="" coords="657,86,824,111"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="616,34,718,84,716,88,614,39"/>
+<area shape="rect" id="Node000003" href="$de/dd3/postgresql_2include_2userver_2storages_2postgres_2cluster_8hpp.html" title="Interface for executing queries on a cluster of PostgreSQL servers." alt="" coords="327,343,517,383"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,132,481,168,477,207,456,283,433,343,428,341,451,282,471,206,476,168,477,132"/>
+<area shape="rect" id="Node000006" href="$d4/dd3/non__transaction_8hpp_source.html" title=" " alt="" coords="484,255,683,295"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="499,129,522,165,574,253,570,256,517,168,495,132"/>
+<area shape="rect" id="Node000007" href="$d2/de3/portal_8hpp_source.html" title=" " alt="" coords="5,167,196,207"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="383,124,184,169,183,164,381,119"/>
+<area shape="rect" id="Node000008" href="$da/deb/postgresql_2include_2userver_2storages_2postgres_2transaction_8hpp.html" title="Transactions." alt="" coords="139,255,329,295"/>
+<area shape="poly" id="edge13_Node000002_Node000008" title=" " alt="" coords="370,113,311,133,284,149,261,168,248,188,240,211,236,255,231,254,235,210,243,186,257,165,281,144,309,128,368,108"/>
+<area shape="rect" id="Node000009" href="$d8/d63/query__queue_8hpp.html" title="An utility to execute multiple queries in a single network round&#45;trip." alt="" coords="272,167,463,207"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="444,129,393,169,390,164,441,125"/>
+<area shape="rect" id="Node000004" href="$dc/df7/base__postgres__cache_8hpp.html" title="Caching component for PostgreSQL. See Caching Component for PostgreSQL." alt="" coords="353,431,512,471"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,396,433,430,428,431,423,397"/>
+<area shape="rect" id="Node000005" href="$df/d02/postgres_8hpp.html" title=" " alt="" coords="139,431,329,471"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="370,391,276,433,274,428,367,386"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="537,303,459,345,456,340,535,299"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="143,212,206,252,203,257,140,217"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="289,298,382,340,380,345,286,303"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="237,308,237,430,231,430,231,308"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="380,219,419,342,414,343,375,221"/>
+<area shape="rect" id="Node000011" href="$d1/d9a/stats__scope_8hpp_source.html" title=" " alt="" coords="757,167,925,207"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="766,118,820,164,817,169,763,122"/>
+<area shape="rect" id="Node000012" href="$da/d14/ydb_2include_2userver_2ydb_2transaction_8hpp_source.html" title=" " alt="" coords="757,262,961,287"/>
+<area shape="poly" id="edge19_Node000010_Node000012" title=" " alt="" coords="838,106,866,115,894,127,918,143,939,165,945,179,945,194,930,222,906,246,880,264,877,260,902,242,926,218,940,193,940,180,934,168,915,147,891,131,864,120,836,112"/>
+<area shape="rect" id="Node000013" href="$de/d2d/table_8hpp_source.html" title=" " alt="" coords="707,350,871,375"/>
+<area shape="poly" id="edge18_Node000010_Node000013" title=" " alt="" coords="740,125,736,202,739,248,749,294,763,324,780,348,776,351,758,327,743,296,734,249,731,202,734,125"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="850,220,859,261,854,262,845,221"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="843,300,801,351,796,348,839,296"/>
+</map>

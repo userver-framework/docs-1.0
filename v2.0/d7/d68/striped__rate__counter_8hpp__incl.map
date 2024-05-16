@@ -1,0 +1,27 @@
+<map id="userver/utils/statistics/striped_rate_counter.hpp" name="userver/utils/statistics/striped_rate_counter.hpp">
+<area shape="rect" id="Node000001" title="Atomic counter of type Rate with relaxed memory ordering, increased memory consumption and decreased ..." alt="" coords="137,5,324,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,101,72,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,48,78,98,76,93,187,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,189,264,214"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="188,48,159,67,137,95,131,113,137,132,160,160,190,180,188,185,157,164,132,135,126,113,132,92,156,64,185,43"/>
+<area shape="rect" id="Node000004" href="$d8/d6a/striped__counter_8hpp.html" title="A contention&#45;free sharded atomic counter, with memory consumption and read performance traded for wri..." alt="" coords="339,93,493,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,43,364,85,362,90,270,48"/>
+<area shape="rect" id="Node000010" href="$d7/def/core_2include_2userver_2utils_2statistics_2fwd_8hpp.html" title="Forward declarations for statistics entities." alt="" coords="518,93,685,133"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="313,43,507,88,506,93,311,48"/>
+<area shape="rect" id="Node000012" href="$d6/dab/rate_8hpp.html" title=" " alt="" coords="147,93,314,133"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="233,46,233,79,228,79,228,46"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="376,136,269,185,267,180,374,131"/>
+<area shape="rect" id="Node000005" href="$d5/d02/fast__pimpl_8hpp.html" title="Implements pimpl idiom without dynamic memory allocation." alt="" coords="350,181,482,221"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="419,134,419,167,413,167,413,134"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="249,269,319,295"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="386,224,317,264,314,260,383,219"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="343,269,393,295"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="407,223,385,259,380,256,402,220"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="417,269,509,295"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="430,220,451,256,446,259,425,223"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="533,269,593,295"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="452,219,530,260,528,265,450,224"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="563,189,640,214"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="604,134,604,175,599,175,599,134"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="233,134,233,175,228,175,228,134"/>
+</map>

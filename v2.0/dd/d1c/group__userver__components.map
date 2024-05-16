@@ -1,0 +1,7 @@
+<map id="Components" name="Components">
+<area shape="rect" id="Node000005" href="$da/d0c/group__userver__base__classes.html" title="Base classes that simplify implementation of functionality." alt="" coords="452,357,560,382"/>
+<area shape="rect" id="Node000003" href="$d6/d5d/group__userver__component__names.html" title="Default names of components that are used in static config files." alt="" coords="407,406,605,431"/>
+<area shape="rect" id="Node000001" title="Components that could be used with utils::DaemonMain like functions; see Component system for an intr..." alt="" coords="5,439,109,465"/>
+<area shape="rect" id="Node000002" href="$d2/d9b/group__userver__http__handlers.html" title="Handlers are components that could be used by components::Server to process the incoming requests." alt="" coords="447,638,565,663"/>
+<area shape="rect" id="Node000004" href="$d7/d58/group__userver__middlewares.html" title="Base classes for implementing and configuring http server middlewares." alt="" coords="415,870,597,895"/>
+</map>

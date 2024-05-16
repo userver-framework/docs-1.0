@@ -1,0 +1,15 @@
+<map id="userver/utils/numeric_cast.hpp" name="userver/utils/numeric_cast.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,5,249,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,92,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,48,79,88,76,84,138,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="116,93,221,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,46,171,79,166,79,166,46"/>
+<area shape="rect" id="Node000004" href="$d1/d37/demangle_8hpp.html" title="Returns a human&#45;readable representation of provided type name." alt="" coords="246,93,475,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,43,321,86,319,91,214,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="241,167,307,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="348,121,300,160,297,156,345,117"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="331,167,390,192"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="363,119,363,153,358,153,358,119"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="415,167,501,192"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="378,117,432,156,429,160,375,121"/>
+</map>

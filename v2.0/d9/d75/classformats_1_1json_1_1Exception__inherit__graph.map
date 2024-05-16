@@ -1,0 +1,27 @@
+<map id="formats::json::Exception" name="formats::json::Exception">
+<area shape="rect" id="Node000001" title=" " alt="" coords="168,202,348,227"/>
+<area shape="rect" id="Node000003" href="$d8/d1f/classformats_1_1json_1_1BadStreamException.html" title=" " alt="" coords="409,101,597,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,194,395,151,430,139,432,144,397,156,298,199"/>
+<area shape="rect" id="Node000004" href="$d0/df3/classformats_1_1json_1_1ExceptionWithPath.html" title=" " alt="" coords="413,165,593,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="362,200,413,193,413,199,362,205"/>
+<area shape="rect" id="Node000010" href="$de/dff/classformats_1_1json_1_1ParseException.html" title=" " alt="" coords="396,230,611,255"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="362,224,396,228,395,233,362,229"/>
+<area shape="rect" id="Node000011" href="$de/d7c/classformats_1_1json_1_1parser_1_1BaseError.html" title=" " alt="" coords="425,325,582,365"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="296,231,466,323,464,328,294,236"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,202,120,227"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,212,168,212,168,217,134,217"/>
+<area shape="rect" id="Node000005" href="$de/d49/classformats_1_1json_1_1ConversionException.html" title="Conversion error." alt="" coords="697,5,886,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="603,156,609,151,620,140,626,129,632,104,638,80,645,67,657,55,695,35,698,40,660,59,650,70,643,82,637,106,631,131,624,143,612,155,606,160"/>
+<area shape="rect" id="Node000006" href="$d0/da8/classformats_1_1json_1_1MemberMissingException.html" title=" " alt="" coords="681,69,901,109"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="593,158,609,151,633,135,657,119,690,107,692,112,660,124,636,139,612,156,595,163"/>
+<area shape="rect" id="Node000007" href="$de/d4c/classformats_1_1json_1_1OutOfBoundsException.html" title=" " alt="" coords="690,133,893,173"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="607,171,690,162,690,167,607,177"/>
+<area shape="rect" id="Node000008" href="$db/da0/classformats_1_1json_1_1TypeMismatchException.html" title=" " alt="" coords="686,197,897,237"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="607,194,686,203,686,208,606,199"/>
+<area shape="rect" id="Node000009" href="$dc/da0/classformats_1_1json_1_1UnknownDiscriminatorException.html" title=" " alt="" coords="659,261,924,301"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="591,208,612,216,636,232,660,247,693,259,691,264,658,252,633,237,609,221,589,213"/>
+<area shape="rect" id="Node000012" href="$d7/da4/classformats_1_1json_1_1parser_1_1InternalParseError.html" title=" " alt="" coords="713,325,870,365"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="596,343,712,343,712,348,596,348"/>
+<area shape="rect" id="Node000013" href="$d2/d03/classformats_1_1json_1_1parser_1_1ParseError.html" title=" " alt="" coords="713,389,870,429"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="596,363,713,389,712,395,595,368"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="pytest_userver.plugins.dynamic_config._Changelog" name="pytest_userver.plugins.dynamic_config._Changelog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,196,257,236"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,101,87,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,140,44,156,50,171,61,184,76,194,73,198,58,188,45,173,39,157,38,140"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="132,5,195,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,44,157,94,146,196,141,195,151,93,157,44"/>
+<area shape="rect" id="Node000004" href="$d3/d3c/classpytest__userver_1_1plugins_1_1dynamic__config_1_1__ChangelogEntry.html" title=" " alt="" coords="289,93,518,133"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="206,33,356,91,354,96,205,38"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="343,141,192,198,190,193,341,136"/>
+</map>
