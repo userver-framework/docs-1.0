@@ -71,7 +71,7 @@ const add_docs_versioning = () => {
         <span style="color: var(--toc-foreground);">Docs version:</span>
         <a href="/docs/v1.0/` + window.location.pathname.split('/v2.0/')[1] + `">v1.0</a>, 
         <span style="background-image: none; color: var(--toc-active-color); font-weight: bold;">v2.0</span>,
-        <a href="/` + window.location.pathname.split('/v2.0/')[1] + `">develop/v2.x</a>
+        <a href="/` + window.location.pathname.split('/v2.0/')[1] + `">trunk/develop</a>
     </li>`
     + footer.innerHTML;
 }
