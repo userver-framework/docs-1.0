@@ -95,6 +95,7 @@ const init_header = () => {
     <li style="box-shadow: inset -1px 0 0 0 var(--separator-color); background-image: none; margin-right: 48px;">
         <span style="color: var(--toc-foreground);">Docs version:</span>
         <span style="background-image: none; color: var(--toc-active-color); font-weight: bold;">v1.0</span>,
+        <a href="/docs/v2.0/` + window.location.pathname.split('/v1.0/')[1] + `">v2.0</a>,
         <a href="/` + window.location.pathname.split('/v1.0/')[1] + `">trunk/develop</a>
     </li>`
     + footer.innerHTML;
